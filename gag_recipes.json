@@ -1,0 +1,107 @@
+[
+  {
+    "name": "Soup",
+    "tiers": {
+      "Normal/Legendary": ["Any ingredients (easiest option)"]
+    }
+  },
+  {
+    "name": "Salad",
+    "tiers": {
+      "Normal/Legendary": ["2x Tomato"],
+      "Mythical": ["1x Tomato", "1x Giant Pinecone"],
+      "Divine": ["3x Sugar Apple", "1x Pepper", "1x Pineapple"],
+      "Prismatic": ["1x Tomato", "4x Bone Blossom"]
+    }
+  },
+  {
+    "name": "Ice Cream",
+    "tiers": {
+      "Normal/Legendary": ["2x Banana"],
+      "Mythical": ["1x Sugar Apple", "1x Banana or Corn"],
+      "Divine": ["3x Sugar Apple", "1x Corn"],
+      "Prismatic": ["1x Banana", "1x Sugar Apple", "3x Bone Blossom"]
+    }
+  },
+  {
+    "name": "Waffle",
+    "tiers": {
+      "Normal/Legendary": ["1x Sugar Apple", "1x Watermelon"],
+      "Mythical": ["1x Sugar Apple", "1x Watermelon"],
+      "Divine": ["1x Sugar Apple", "1x Watermelon"],
+      "Prismatic": []
+    }
+  },
+  {
+    "name": "Burger",
+    "tiers": {
+      "Normal/Legendary": ["1x Pepper", "1x Corn", "1x Tomato"],
+      "Mythical": ["1x Pepper", "1x Corn", "1x Tomato", "2x Beanstalk"],
+      "Divine": ["1x Pepper", "1x Corn", "1x Tomato", "1x Bone Blossom", "1x Beanstalk"],
+      "Prismatic": ["1x Corn", "1x Tomato", "1x Pepper", "3x Bone Blossom"]
+    }
+  },
+  {
+    "name": "Hotdog",
+    "tiers": {
+      "Normal/Legendary": ["1x Pepper", "1x Corn or Banana"],
+      "Mythical": ["1x Corn", "1x Pepper"],
+      "Divine": ["1x Corn", "1x Pepper"],
+      "Prismatic": ["1x Corn", "4x Bone Blossom"]
+    }
+  },
+  {
+    "name": "Sandwich",
+    "tiers": {
+      "Normal/Legendary": ["2x Tomato", "1x Corn"],
+      "Mythical": ["1x Tomato", "1x Coconut"],
+      "Divine": ["1x Apple", "1x Pumpkin"],
+      "Prismatic": ["4x Bone Blossom", "1x Pumpkin or Coconut"]
+    }
+  },
+  {
+    "name": "Pie",
+    "tiers": {
+      "Normal/Legendary": ["1x Tomato", "1x Coconut"],
+      "Mythical": ["1x Apple", "1x Pumpkin"],
+      "Divine": ["1x Elder Strawberry", "1x Mango", "1x Giant Pinecone", "1x Coconut", "1x Beanstalk"],
+      "Prismatic": ["4x Bone Blossom", "1x Pumpkin or Coconut"]
+    }
+  },
+  {
+    "name": "Sushi",
+    "tiers": {
+      "Normal/Legendary": ["4x Bamboo", "1x Corn"],
+      "Mythical": ["3x Bamboo", "1x Corn", "1x Maple Apple"],
+      "Divine": ["3x Sugar Apple", "1x Bamboo", "1x Corn"],
+      "Prismatic": ["1x Bamboo", "1x Corn", "3x Bone Blossom"]
+    }
+  },
+  {
+    "name": "Cake",
+    "tiers": {
+      "Normal/Legendary": ["2x Corn", "2x Banana", "1x Watermelon"],
+      "Mythical": ["2x Sugar Apple", "2x Corn"],
+      "Divine": ["1x Corn", "2x Elder Strawberry", "2x Sugar Apple"],
+      "Prismatic": ["1x Banana", "1x Corn", "4x Bone Blossom"]
+    }
+  },
+  {
+    "name": "Donut",
+    "tiers": {
+      "Normal/Legendary": ["1x Strawberry", "1x Tomato", "1x Apple"],
+      "Mythical": ["2x Sugar Apple", "1x Corn"],
+      "Divine": ["1x Bone Blossom", "1x Sugar Apple", "1x Banana"],
+      "Prismatic": ["1x Violet Corn", "1x Sugar Apple", "3x Bone Blossom"]
+    }
+  },
+  {
+    "name": "Pizza",
+    "tiers": {
+      "Normal/Legendary": ["2x Corn", "2x Apple", "1x Pepper"],
+      "Mythical": ["1x Pepper", "1x Tomato", "1x Corn", "2x Sugar Apple"],
+      "Divine": ["1x Sugar Apple", "1x Pepper", "1x Tomato", "1x Banana"],
+      "Prismatic": ["1x Violet Corn", "1x Sugar Apple", "3x Bone Blossom"]
+    }
+  }
+]

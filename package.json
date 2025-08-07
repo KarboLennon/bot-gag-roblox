@@ -1,0 +1,20 @@
+{
+  "name": "botwa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@vitalets/google-translate-api": "^5.1.0",
+    "axios": "^1.10.0",
+    "cheerio": "^1.1.2",
+    "node-fetch": "^2.7.0",
+    "qrcode-terminal": "^0.12.0",
+    "whatsapp-web.js": "^1.31.0"
+  },
+  "description": ""
+}
