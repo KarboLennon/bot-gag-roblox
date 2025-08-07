@@ -5,8 +5,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["grow a garden", "bot", "whatsapp", "roblox", "botwa"],
+  "author": "Muchtar Ali Anwar",
   "license": "ISC",
   "dependencies": {
     "@vitalets/google-translate-api": "^5.1.0",

@@ -1,0 +1,19 @@
+[
+  { "name": "Watering Can", "rarity": "Common" },
+  { "name": "Trading Ticket", "rarity": "Uncommon" },
+  { "name": "Trowel", "rarity": "Uncommon" },
+  { "name": "Recall Wrench", "rarity": "Uncommon" },
+  { "name": "Basic Sprinkler", "rarity": "Rare" },
+  { "name": "Advanced Sprinkler", "rarity": "Legendary" },
+  { "name": "Medium Toy", "rarity": "Legendary" },
+  { "name": "Medium Treat", "rarity": "Legendary" },
+  { "name": "Godly Sprinkler", "rarity": "Mythical" },
+  { "name": "Magnifying Glass", "rarity": "Mythical" },
+  { "name": "Master Sprinkler", "rarity": "Divine" },
+  { "name": "Cleaning Spray", "rarity": "Divine" },
+  { "name": "Favourite Tool", "rarity": "Divine" },
+  { "name": "Harvest Tool", "rarity": "Divine" },
+  { "name": "Friendship Pot", "rarity": "Divine" },
+  { "name": "Grandmaster Sprinkler", "rarity": "Prismatic" },
+  { "name": "Level Up Lollipop", "rarity": "Prismatic" }
+]
